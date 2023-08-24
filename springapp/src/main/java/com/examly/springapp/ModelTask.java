@@ -47,6 +47,6 @@ public class ModelTask {
     }
     public void setHouseno(String houseno){
         this.houseno=houseno;
-    }
-    
+    }
+    
 }
